@@ -1,3 +1,6 @@
+Í kóðanum nota ég R pakkann `hagstofa`, sem ég er að þróa, til að sækja gögn af vef Hagstofunnar þæginlega. Pakkann má nálgast hér: https://github.com/bgautijonsson/hagstofa.
+
+
 
 ## Vísitala neysluverðs
 
